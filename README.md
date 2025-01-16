@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryeswar
 - 👀 I’m interested in AI and Ml and Web-Development
-- 🌱 I’m currently learning front-end development 
+- 🌱 I’m exploring front-end development 
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me suryeswar2004@gmail.com
 - 😄 Pronouns: HE is on focus 
